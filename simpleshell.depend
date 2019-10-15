@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571096711 source:/home/omar/Desktop/OS/NewSimpleShell/simpleshell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/wait.h>
+
